@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasun Mondal</h1>
-<h3 align="center">A passionate full-stack Webdev developer and a blockchain enthusiast from India</h3>
+<h3 align="center">A passionate full-stack Web developer and a blockchain enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasun60&label=Profile%20views&color=0e75b6&style=flat" alt="prasun60" /> </p>
 
